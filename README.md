@@ -64,4 +64,11 @@
   Скриншот Wireshark характерный для сканиорвания *nmap -sF*. Здесь исследуется 22 порт.
   </br> ![List of vulners](images/Task_2_2.png)
 
+*Xmas:
+   * отправляет пакет с установленными флагами URG, PSH, FIN.
+   * * удалённый комп сбрасывает соединение [RST, ACK]
+
+  Скриншот Wireshark характерный для сканиорвания *nmap -sF*. 
+  </br> ![List of vulners](images/Task_2_3.png)
+  
 ---
